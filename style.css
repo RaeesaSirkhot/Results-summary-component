@@ -263,6 +263,9 @@ img{
     margin-top: -790px;
     padding-left: 40px;
     box-shadow: 8px black;
+    z-index: 1000;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
 }
 
 #content, #block{
