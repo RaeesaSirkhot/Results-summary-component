@@ -235,9 +235,7 @@ img{
 }
 #content{
     margin-left: 31px;
-    width: 900px;
-    height: 800px;
-    background-color: white;
+   
     
 }
 @media (min-width:1440px){
@@ -264,7 +262,7 @@ img{
     position: relative;
     margin-top: -780px;
     padding-left: 40px;
-    
+    box-shadow: 8px;
 }
 
 #content, #block{
