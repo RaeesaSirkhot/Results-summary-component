@@ -260,7 +260,7 @@ img{
     background-color: rgb(255,255,255);
     margin-left: 720px;
     position: relative;
-    margin-top: -780px;
+    margin-top: 0px;
     padding-left: 40px;
     box-shadow: 8px black;
 }
