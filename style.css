@@ -262,7 +262,7 @@ img{
     position: relative;
     margin-top: -780px;
     padding-left: 40px;
-    box-shadow: 8px;
+    box-shadow: 8px black;
 }
 
 #content, #block{
