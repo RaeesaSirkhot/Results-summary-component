@@ -262,7 +262,7 @@ img{
     position: relative;
     margin-top: -790px;
     padding-left: 40px;
-    box-shadow: black;
+    box-shadow: black 8px;
     z-index: 1000;
     border-top-right-radius: 8px;
     border-bottom-right-radius: 8px;
