@@ -16,11 +16,10 @@
     
 }
 #your_result{
-    padding-top: 25px;
     text-align: center;
     color: hsl(241, 100%, 89%);
-    padding-bottom: 14.5px;
     margin-top: 28px;
+    margin-bottom: 28px;
     font-family: 'Hanken Grotesk', sans-serif;
 }
 .content #progress{
