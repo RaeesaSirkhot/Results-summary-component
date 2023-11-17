@@ -13,6 +13,8 @@
     height: 430px;
     border-bottom-left-radius: 35px;
     border-bottom-right-radius: 35px;
+    margin: 0;
+    padding: 0;
     
 }
 #your_result{
