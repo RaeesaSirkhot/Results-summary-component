@@ -6,6 +6,8 @@
     width: 375px;
     height: 809px;
     background-color: rgb(255, 255, 255);
+    padding: 0%;
+    margin: 0;
 }
 #block{
     background: linear-gradient(to bottom, hsl(252, 100%, 67%),hsl(241, 81%, 54%));
@@ -13,7 +15,7 @@
     height: 430px;
     border-bottom-left-radius: 35px;
     border-bottom-right-radius: 35px;
-    padding-top: -90px;
+    
     
 }
 #your_result{
