@@ -40,7 +40,7 @@
 #number_total{
     color: white;
     font-weight: 800;
-    font-size: 40px;
+    font-size: 37px;
     font-family: 'Hanken Grotesk', sans-serif;
     width: 50px;
     height: 41px;
@@ -209,6 +209,9 @@ img{
     text-align-last: right;
     margin-right: 17px;
     
+}
+p{
+    font-size: 15px;
 }
 #progress_4{
     color: hsl(224, 30%, 27%);
